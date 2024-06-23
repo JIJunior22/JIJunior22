@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">4º período do curso de Ciência da Computação. Apaixonado por programação, Java & Spring .</p>
+<p align="left">Estou cursando o 4º período do curso de Ciência da Computação. Apaixonado por programação, Java & Spring .</p>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Stats</p>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Social</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
