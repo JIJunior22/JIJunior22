@@ -62,8 +62,8 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/JIJUnior22/JIJUnior22/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
